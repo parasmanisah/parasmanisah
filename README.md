@@ -1,8 +1,8 @@
--👋 Hi, I’m @parasmanisah
---👀 I’m interested in data engineering, data pipelines
---🌱 I’m currently learning Apache Spark, Snowflake, Apache NiFi, Kafka, and advanced SQL for scalable data systems
---💞️ I’m looking for a Data Engineer role 
---📫 How to reach me: parassah.official@gmail.com
+👋 Hi, I’m @parasmanisah  
+👀 Data Engineer interested in building scalable data pipelines  
+🌱 Learning Apache Spark, Snowflake, Kafka, NiFi, and advanced SQL  
+💞️ Seeking opportunities as a Data Engineer  
+
 
 <!---
 parasmanisah/parasmanisah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
